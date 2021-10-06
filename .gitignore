@@ -1,0 +1,9 @@
+# Project
+Project/
+
+# Files
+*.bak
+*.test
+
+# Visual Studio Code
+.vscode
